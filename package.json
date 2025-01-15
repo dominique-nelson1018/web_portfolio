@@ -1,0 +1,24 @@
+{
+  "name": "web_portfolio",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominique-nelson1018/web_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominique-nelson1018/web_portfolio/issues"
+  },
+  "homepage": "https://github.com/dominique-nelson1018/web_portfolio#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
